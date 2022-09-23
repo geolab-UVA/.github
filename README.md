@@ -7,6 +7,11 @@ The Geometry Lab @ UVA is an exploratory math workshop focused on geometry and h
 
 We want to learn concepts from a more concrete, practical way. This means we will be exploring how exciting geomtries emerge not only as abstract mathematical constructions but in real life. 
 
+## Meeting time
+Common meeting time is usually on Tuesdays from 3:30pm to 5:30pm. We meet at the [STE(A)M Maker space (Chemistry 202)](https://learningdesign.as.virginia.edu/space/maker-spaces)
+
+Individual groups may meet at different times. During our common meetings we will periodically discuss the math behind non-Euclidean geometries and how they have appeared in our groups' investigations. 
+
 ## Meet the organizers and mentors
 
 - [Sara Maloni](https://math.virginia.edu/people/sm4cw/)
@@ -17,8 +22,6 @@ We want to learn concepts from a more concrete, practical way. This means we wil
 - [Gennady Uraltsev](https://guraltsev.github.io/)
 
 # Groups  - FA22
-
-
 
 This semester we will mainly devide our exploration into 3 groups:
 
