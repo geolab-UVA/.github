@@ -46,4 +46,5 @@ Mentor: [David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
 Many 3d rendering engines for games and animation are focused on our usual Euclidean reality. Can one use the tools available to help visualize non Euclidean geometries. We are out to understand how visualization and rendering works and how we can adapt it to more exciting and exotic settings. 
 
 Mentor: [Gennady Uraltsev](https://guraltsev.github.io/)
+
 Main repo: [GeoVis.fa22](https://github.com/geolab-UVA/GeoVis.fa22)
