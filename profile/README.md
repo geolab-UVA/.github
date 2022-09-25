@@ -27,7 +27,7 @@ This semester we will mainly devide our exploration into 3 groups:
 
 ## Crochet
 
-Visualizing hyperbolic space is difficult; for this we use models. But can we create a model in parctice. If you crochet in a specific pattern you can! Let us explore 
+Visualizing hyperbolic space is difficult; for this we use models. But can we create a model in practice. If you crochet in a specific pattern you can! Let us explore 
 how and why.
 
 - [Hyperbolic Space Crochet Models](https://www.theiff.org/oexhibits/oe1e.html)
