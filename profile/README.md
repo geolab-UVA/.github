@@ -16,6 +16,8 @@ We want to learn concepts from a more concrete, practical way. This means we wil
 - [David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
 - [Gennady Uraltsev](https://guraltsev.github.io/)
 
+[Mentors only section](https://github.com/geolab-UVA/Mentors)
+
 # Editions
 
 [Spring 2023](https://github.com/geolab-UVA/Spring2023)
