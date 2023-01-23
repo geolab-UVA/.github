@@ -1,7 +1,7 @@
 ![Folded_Coral_Flynn_Reef](https://user-images.githubusercontent.com/7040974/191885554-2213debe-ee84-4025-968a-20258f257fb0.jpg)
 
 
-# UVA Geometry Lab - FA22
+# UVA Geometry Lab
 
 The Geometry Lab @ UVA is an exploratory math workshop focused on geometry and hyperbolic geometry in particular.
 
