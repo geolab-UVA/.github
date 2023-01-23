@@ -22,4 +22,5 @@ Individual groups may meet at different times. During our common meetings we wil
 - [Gennady Uraltsev](https://guraltsev.github.io/)
 
 # Editions
-[Spring2023](https://github.com/geolab-UVA/Spring2023)
+
+[Spring 2023](https://github.com/geolab-UVA/Spring2023)
