@@ -8,6 +8,7 @@ The Geometry Lab @ UVA is an exploratory math workshop focused on geometry and h
 We want to learn concepts from a more concrete, practical way. This means we will be exploring how exciting geomtries emerge not only as abstract mathematical constructions but in real life. 
 
 ## Meet the organizers and mentors
+<sub><sup> [Mentors only section](https://github.com/geolab-UVA/Mentors/discussions)</sup></sub>
 
 - [Sara Maloni](https://math.virginia.edu/people/sm4cw/)
 - [Filippo Mazzoli](https://filippomazzoli.github.io/)
@@ -16,7 +17,6 @@ We want to learn concepts from a more concrete, practical way. This means we wil
 - [David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
 - [Gennady Uraltsev](https://guraltsev.github.io/)
 
-[Mentors only section](https://github.com/geolab-UVA/Mentors/discussions)
 
 # Editions
 
