@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/hyperbolic-coral.jpg" width="50%"></p>
+<p align="center"><img src="https://github.com/geolab-UVA/.github/blob/main/profile/assets/hyperbolic-coral.jpg" width="50%"></p>
 
 
 # UVA Geometry Lab
