@@ -1,4 +1,4 @@
-![Folded_Coral_Flynn_Reef](https://user-images.githubusercontent.com/7040974/191885554-2213debe-ee84-4025-968a-20258f257fb0.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/7040974/191885554-2213debe-ee84-4025-968a-20258f257fb0.jpg" width="50%"></p>
 
 
 # UVA Geometry Lab
