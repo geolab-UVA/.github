@@ -16,6 +16,7 @@ We want to learn concepts from a more concrete, practical way. This means we wil
 - [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 - [David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
 - [Gennady Uraltsev](https://guraltsev.github.io/)
+- [Alec Traaseth](https://sites.google.com/view/alec-traaseth/?pli=1)
 
 
 # Editions
