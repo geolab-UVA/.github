@@ -1,7 +1,7 @@
-<p align="center"><img src="https://github.com/geolab-UVA/.github/blob/main/profile/assets/hyperbolic-coral.jpg" width="50%"></p>
-
 
 # UVA Geometry Lab
+<p align="center"><img src="https://github.com/geolab-UVA/.github/blob/main/profile/assets/hyperbolic-coral.jpg" width="50%"></p>
+
 
 The Geometry Lab @ UVA is an exploratory math workshop focused on geometry and hyperbolic geometry in particular.
 
