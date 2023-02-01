@@ -20,5 +20,5 @@ We want to learn concepts from a more concrete, practical way. This means we wil
 
 
 # Editions
-
-[Spring 2023](https://github.com/geolab-UVA/geolab-UVA-Spring2023)
+- Fall 2022
+- [Spring 2023](https://github.com/geolab-UVA/geolab-UVA-Spring2023)
